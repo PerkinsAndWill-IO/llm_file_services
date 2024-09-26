@@ -11,6 +11,7 @@ __pycache__/
 selected_pdf_data/
 credentials.json
 .streamlit/
+selected_pdf_data/
 
 # Distribution / packaging
 .Python
