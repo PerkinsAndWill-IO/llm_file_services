@@ -12,6 +12,9 @@ selected_pdf_data/
 credentials.json
 .streamlit/
 selected_pdf_data/
+vectorstores/
+all_pdf_files/
+
 
 # Distribution / packaging
 .Python
